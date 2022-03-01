@@ -1,0 +1,63 @@
+body
+{
+	
+	
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+
+#number1
+{
+	width: 100%;
+}
+
+#number2
+{
+	width: 100%;
+}
+
+#pa
+{
+	float: left;
+	margin-left: 200px;
+	background-color: white;
+	color: navy;
+	padding: 15px;
+	
+}
+
+#div1,#div2
+{
+	width: 40%;
+	float: none;
+	background-color:aliceblue;
+	padding: 20px;
+	border-radius: 30px;
+	margin-top: 30px;
+}
+
+#btn
+{
+	background-color: #4B0082;
+	color: white;
+	border: 2px solid white;
+	border-radius: 20px;
+	font-size: 23px;
+}
+
+#thumbnail
+{
+	height: 100px;
+	width: 100px;
+}
+
+
